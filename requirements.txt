@@ -1,0 +1,10 @@
+notebook
+matplotlib
+numpy
+scipy
+sympy
+traitlets
+nb-clean
+ipympl
+voila
+jupyterlab_rise
